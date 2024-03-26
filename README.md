@@ -1,5 +1,5 @@
 # AIML-LABS
-# Lab Code Notebooks
+# Lab Codes
 [LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB01.ipynb) : Python Libraries and Packages.
 
 [LAB-2](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB02.ipynb) : Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python.
