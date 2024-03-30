@@ -1,5 +1,22 @@
 # AIML-LABS
 # Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
+[LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A1.pdf)
+
+[LAB-2](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A2.pdf)
+
+[LAB-3](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A3.pdf)
+
+[LAB-4](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A4.pdf)
+
+[LAB-5](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A5.pdf)
+
+[LAB-6](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A6.pdf)
+
+[LAB-7](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A7.pdf)
+
+[LAB-8](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A8.pdf)
+
+[LAB-9](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A9.pdf)
 
 # Lab Codes
 [LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB01.ipynb) : Python Libraries and Packages.
