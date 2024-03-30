@@ -1,5 +1,5 @@
 # AIML-LABS
-# Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
+# AIML Lab Instruction Sheets
 [LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A1.pdf)
 
 [LAB-2](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A2.pdf)
