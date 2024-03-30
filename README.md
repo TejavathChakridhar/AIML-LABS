@@ -1,4 +1,6 @@
 # AIML-LABS
+# Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
+
 # Lab Codes
 [LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB01.ipynb) : Python Libraries and Packages.
 
