@@ -38,3 +38,5 @@
 [LAB-8](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/Lab_08.ipynb) : Implement Decision Tree Classifier using Lending Club Data.
 
 [LAB-9](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB09.ipynb) : Implement Random Forest Ensemble Classifier using Lending Club Data.
+
+[LAB_-10](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB10.ipynb) : Implement K-Means Clustering using Synthetic Data from Blobs.
