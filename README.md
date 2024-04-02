@@ -18,6 +18,8 @@
 
 [LAB-9](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A9.pdf)
 
+[LAB-10](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/AIML_A10.pdf)
+
 # Lab Codes
 [LAB-1](https://github.com/TejavathChakridhar/AIML-LABS/blob/main/LAB01.ipynb) : Python Libraries and Packages.
 
